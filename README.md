@@ -8,7 +8,7 @@ https://www.acmicpc.net/
 
 [Baekjoon](https://www.acmicpc.net/)에서 푼 문제를 관리하기 위한 저장소입니다.
 
-~~1일 1커밋 도전중~~
+1일 1커밋 도전중
 
 ## 사용 언어
 - Python
