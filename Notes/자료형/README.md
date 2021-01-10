@@ -10,6 +10,12 @@ print(a)       # 10             (메모리의 값)
 print(id(a))   # 10105376       (메모리 주소)
 print(type(a)) # <class 'int'>  (자료형 타입)
 ```
+> 다양한 변수 할당
+```python
+a, b, c = 10, 20, 30 
+
+x = y = z = 10 
+```
 
 > 변수의 값 교체 
 ```python
