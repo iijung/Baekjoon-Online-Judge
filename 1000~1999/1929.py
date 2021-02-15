@@ -4,7 +4,7 @@ def eratosthenes(a, b):
         if primes[i] == True:
             for j in range(i+i, b+1, i):
                 primes[j] = False
-    return [i for i in range(a, b+1) if primes[i] == True]
+    return [i for i in range(a, b+1) if i != 1 and primes[i] == True]
 
 
 M, N = map(int, input().split())
