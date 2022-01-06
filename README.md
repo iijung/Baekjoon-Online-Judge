@@ -8,8 +8,6 @@ https://www.acmicpc.net/
 
 [Baekjoon](https://www.acmicpc.net/)에서 푼 문제를 관리하기 위한 저장소입니다.
 
-## 사용 언어
-- Python
-
 ## 목적
-- Python 및 알고리즘 공부
+- 알고리즘 공부
+
