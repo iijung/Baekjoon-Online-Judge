@@ -6,8 +6,7 @@ int main()
 	char c[7] = {0};
 	scanf("%s", c);
 
-	int rtn = 0;
-	int digit = 1;
+	int rtn = 0, digit = 1;
 	for (int i = strlen(c) - 1; i >= 0; i--)
 	{
 		int t = c[i] < 'A'? c[i] - '0' : c[i] - 'A' + 10;
