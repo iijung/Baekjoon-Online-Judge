@@ -13,3 +13,4 @@ int main()
 	}
 	return 0;
 }
+//i,j;main(n){scanf("%d",&n);while(i++<n){j=0;while(j++<i)printf("*");puts("");}}
