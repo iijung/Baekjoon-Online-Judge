@@ -13,3 +13,4 @@ int main()
 	}
 	return 0;
 }
+// char s[];main(n){scanf("%d",&n);for(memset(s,32,n);n--;puts(s))s[n]=42;}
