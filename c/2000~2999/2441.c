@@ -15,3 +15,4 @@ int main()
 	}
 	return 0;
 }
+// i;main(n){scanf("%d",&n);while(i<n*n){putchar(i%n<i/n?32:42);if(++i%n==0)puts("");}}
