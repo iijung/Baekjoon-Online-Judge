@@ -15,3 +15,4 @@ int main()
 	}
 	return 0;
 }
+// char s[];main(n){scanf("%d",&n);for(memset(s,42,n);n--;s[n]=0)puts(s);}
