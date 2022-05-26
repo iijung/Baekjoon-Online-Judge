@@ -16,3 +16,4 @@ int main()
 	}
 	return 0;
 }
+//i;char s[200];main(n){scanf("%d",&n);for(;i<n;i++){memset(s,42,n*2-1);memset(s,32,i);s[2*n-i-1]=0;puts(s);}}
