@@ -19,3 +19,7 @@ int main()
 	}
 	return 0;
 }
+/*
+#define A(a) while(a){memset(s,42,n+i);s[n+i-1]=0;memset(s,65,n-i);puts(s);}
+i;char s[200];main(n){scanf("%d",&n);A(i++<n)--i;A(--i)}
+*/
