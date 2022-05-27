@@ -34,3 +34,7 @@ int main()
 	}
 	return 0;
 }
+/*
+#define A(a) while(a){memset(s,42,2*n);memset(s,32,i-1);s[2*n-i]=0;puts(s);}
+i;char s[200];main(n){scanf("%d", &n);A(i++<n)i--;A(--i)}
+*/
