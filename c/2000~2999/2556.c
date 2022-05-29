@@ -14,3 +14,4 @@ int main()
 	}
     return 0;
 }
+//i;char s[101];main(n){scanf("%d",&n);while(i++<n)puts(memset(s,42,n));}
