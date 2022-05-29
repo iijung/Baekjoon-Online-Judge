@@ -22,3 +22,4 @@ int main()
 	}
 	return (0);
 }
+//i,j;main(n){if(n==scanf("%d",&n)){printf("*");return 0;}for(;i<2*n;i++){for(j=0;j<n;j++){if(j==n-1&&(i+j)%2)continue;putchar((i+j)%2?32:42);}puts("");}}
