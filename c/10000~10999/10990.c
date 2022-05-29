@@ -15,3 +15,4 @@ int main()
 	}
 	return 0;
 }
+//i,j;main(n){scanf("%d",&n);while(i++<n){for(j=1;j<n+i;j++)printf(abs(j-n)==i-1?"*":" ");puts("");}}
