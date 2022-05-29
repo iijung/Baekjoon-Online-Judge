@@ -15,3 +15,4 @@ int main()
 	}
 	return (0);
 }
+//i,j;main(n){scanf("%d",&n);while(++i<=n){for(j=0;j<2*n-i%2;j++)putchar((i+j)%2?42:32);puts("");}}
