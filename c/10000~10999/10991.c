@@ -12,3 +12,4 @@ int main()
 		printf("\n");
 	}
 }
+//i,j;main(n){for(scanf("%d",&n);i<n;++i){for(j=1;j<=n+i;j++)putchar(abs(n-j)>i||abs(n-j)%2!=i%2?32:42);puts("");}}
