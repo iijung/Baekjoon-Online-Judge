@@ -23,3 +23,4 @@ int main()
 	}
 	return 0;
 }
+//i;char s[101];main(n){scanf("%d",&n);memset(s,32,n);i=n;while(i--){s[i]=42;puts(s);}while(++i<n-1){s[i]=32;puts(s);}}
